@@ -1,7 +1,8 @@
 
 -->
 <h1 align="center">Hey 👋 I'm Saloni </h1>
-<h3 align="center">A 3rd-year B.Tech CSE student at Maharshi Dayanand University, driven by curiosity and innovation, growing as a Full-Stack Developer with a strong interest in AI/ML and Cloud.</h3>
+<h3 align="center">A 3rd-year B.Tech CSE student at [[Maharshi Dayanand University]](https://mdu.ac.in), 
+ Driven by curiosity and innovation, growing as a Full-Stack Developer with a strong interest in AI/ML and Cloud.</h3>
 
 ---
 
@@ -13,8 +14,8 @@
 ☁️ Exploring cloud technologies to design scalable and efficient applications.  
 
 🌱 Actively seeking opportunities to open new pathways in the field of AI/ML and contribute to impactful innovations.
-💡 Developer Mindset:  
-[▶ Run My Persistence Code](https://your-link-here.com)
+💡 Developer Mindset:    
+[▶ Run My Persistence Code](https://your-link-here.com))
 
 ---
 

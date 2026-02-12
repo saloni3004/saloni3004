@@ -1,7 +1,7 @@
 
 -->
 <h1 align="center">Hey 👋 I'm Saloni </h1>
-<h3 align="center">A 3rd-year B.Tech CSE student at Maharshi Dayanand University(https://mdu.ac.in), 
+<h3 align="center">A 3rd-year B.Tech CSE student at [Maharshi Dayanand University](https://mdu.ac.in), 
  Driven by curiosity and innovation, growing as a Full-Stack Developer with a strong interest in AI/ML and Cloud.</h3>
 
 ---

@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**saloni3004/saloni3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<h1 align="center">Hey 👋 I'm Saloni Kumari</h1>
+<h3 align="center">Aspiring Full Stack Developer | Cloud & Backend Enthusiast</h3>
+
+---
+
+### 👩‍💻 About Me
+- 🎓 CSE Student
+- 💻 Currently building: **FinAgent – AI-based Banking Scheme Guidance System**
+- 🌱 Learning: Backend Development & Cloud (AWS)
+- 🔐 Interested in: AI/ML + Cybersecurity
+- 🎯 Goal: Become a strong Backend Engineer
+
+---
+
+### 🚀 Tech Stack
+💙 Frontend:
+- HTML
+- CSS
+- JavaScript
+
+💙 Backend:
+- Node.js
+- Express.js
+
+💙 Database:
+- MongoDB
+
+💙 Cloud:
+- AWS (IAM, Roles, Users)

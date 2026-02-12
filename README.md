@@ -29,5 +29,5 @@
 
   ### 📫 Connect With Me
 🤝Always excited to connect with professionals, developers, and innovators — find me on LinkedIn or contact me via email.  
-- 💼 LinkedIn: linkedin.com/saloni-5193b7315
+- 💼 LinkedIn: [linkedin.com/saloni-5193b7315](url)
 - 📧 Email: salonikumari81517@gmail.com

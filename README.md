@@ -1,12 +1,12 @@
 
 -->
 <h1 align="center">Hey 👋 I'm Saloni </h1>
-<h3 align="center">A third-year B.Tech CSE student at Maharshi Dayanand University, driven by curiosity and innovation, growing as a Full-Stack Developer with a strong interest in AI/ML and Cloud.</h3>
+<h3 align="center">A 3rd-year B.Tech CSE student at Maharshi Dayanand University, driven by curiosity and innovation, growing as a Full-Stack Developer with a strong interest in AI/ML and Cloud.</h3>
 
 ---
 
-### 👩‍💻 About Me
-🎓 B.Tech CSE student with a strong interest in Artificial Intelligence, Machine Learning, and Cloud Computing.  
+### 👩‍💻 Currently Debugging Life with console.log()
+🎓 CSE student with a strong interest in Artificial Intelligence, Machine Learning, and Cloud Computing.  
 
 🚀 Currently working on AI/ML-based projects like **FinAgent**, building intelligent systems to simplify real-world financial decisions.  
 
@@ -32,7 +32,7 @@
 ### 🌐 Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
